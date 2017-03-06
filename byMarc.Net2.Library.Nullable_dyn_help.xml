@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.Library.Nullable" Title="byMarc.Net2.Library.Nullable Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Nullable.NullableLib.IfNothing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Nullable.chm::/topic_0000000000000003.html" LinkGroup="byMarc.Net2.Library.Nullable">IfNothing Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Nullable.NullableLib.IfNull" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Nullable.chm::/topic_0000000000000005_overloads--.html" LinkGroup="byMarc.Net2.Library.Nullable">IfNull Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Nullable.NullableLib.IfNull" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Nullable.chm::/topic_0000000000000004_overloads--.html" LinkGroup="byMarc.Net2.Library.Nullable">IfNull Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Nullable.NullableLib" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Nullable.chm::/topic_0000000000000002.html" LinkGroup="byMarc.Net2.Library.Nullable">NullableLib Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Nullable.NullableLib.ObjectsAreEqual" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Nullable.chm::/topic_0000000000000006.html" LinkGroup="byMarc.Net2.Library.Nullable">ObjectsAreEqual Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Nullable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Nullable.chm::/topic_0000000000000008.html" LinkGroup="byMarc.Net2.Library.Nullable">byMarc.Net2.Library.Nullable Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Nullable Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Nullable.chm::/topic_0000000000000007.html" LinkGroup="byMarc.Net2.Library.Nullable">byMarc.Net2.Library.Nullable Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
